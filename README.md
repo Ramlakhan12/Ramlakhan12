@@ -43,11 +43,13 @@
 <h3 align="center">🧠 AI / ML / GenAI Stack</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="55" title="Python" alt="Python"/>
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="55" title="Node" alt="Node"/>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="55" title="JS" alt="JS"/>
-  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="55" title="TypeScript" alt="TypeScript"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55" title="React" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,aws,gcp&theme=dark" alt="Core Tech Icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pinecone%20Vector%20DB-00C8B8?style=flat-square&logoColor=white" height="28"/>
 </p>
 
 <p align="center"><b>🔬 Machine Learning & Generative AI</b></p>
