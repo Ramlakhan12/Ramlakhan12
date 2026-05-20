@@ -1,16 +1,25 @@
-### Hi there 👋, i'm Ramlakhan
+### Hi there 👋, I'm Ramlakhan
 
+I am an AI/ML and Backend Engineer with 1.5 years of experience building and deploying production-grade Machine Learning models, fine-tuning Large Language Models (LLMs), and developing robust backend APIs. I'm passionate about solving complex data problems and building highly efficient software systems.
 
+---
 
- I have a strong foundation in programming languages such as SQL, Java, Javascript, Python, PHP, C, and C++. I also have experience working with databases such as MySQL and Oracle. In addition, you have knowledge of web development frameworks like Django. These skills make me a well-rounded and competent developer, capable of building a wide range of software applications. With this skill set, I would be able to work on projects involving data management, backend development, and web development
+### 🛠️ Tech Stack & Skills
 
-Skills: C / C++ / PYTHON / JAVA / JAVASCRIPT / PHP / SQL / DJANGO / JS / HTML / CSS
+* **Artificial Intelligence & GenAI:** LLM Fine-Tuning, Retrieval-Augmented Generation (RAG), Production-grade ML Pipelines, Deep Learning
+* **Backend Development:** Python, FastAPI, Django, Java, PHP, C, C++
+* **Databases & Cloud:** MySQL, Oracle, MongoDB Atlas, AWS, Google Cloud Platform (GCP)
+* **Web Technologies:** JavaScript, HTML5, CSS3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramlakhan12)](https://github.com/Ramlakhan12/github-readme-stats)
+---
 
-<!---
-Ramlakhan12/Ramlakhan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  
- 
+### 🚀 What I'm Working On
+* Designing scalable, intelligent retrieval systems and fine-tuning advanced open-source LLMs.
+* Building high-performance APIs and microservices.
+* Participating in the Codebasics Resume Project Challenge (May 2026).
+
+---
+
+### 📈 GitHub Stats
+
+[![Ramlakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramlakhan12&show_icons=true&theme=radial)](https://github.com/Ramlakhan12/Ramlakhan12)
