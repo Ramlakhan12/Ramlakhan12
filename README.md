@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&width=600&height=60&lines=Hey+there!+I'm+Ram+👋;AI+%2F+ML+Engineer;LLM+Fine-Tuning+%7C+QLoRA+%7C+Unsloth;Generative+AI+%7C+RAG+%7C+Agentic+AI;Multimodal+AI+%7C+GCP+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I%27m+Ram+%F0%9F%91%8B;AI+%2F+ML+Engineer;LLM+Fine-Tuning+%7C+QLoRA+%7C+Unsloth;Generative+AI+%7C+RAG+%7C+Agentic+AI;Multimodal+AI+%7C+GCP+%7C+AWS&font=Fira%20Code&center=true&width=600&height=60&duration=4000&pause=1000&color=00FFFF" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <h3 align="center">🤖 About Me</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4dGo3M3Fhbmw2NHNlNGg1Y3BxejlkMHJmYWVncGo2NTR3dWplbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="AI Brain GIF" width="280" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="AI Brain GIF" width="280" />
 </p>
 
 <p align="center">
@@ -44,10 +44,10 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="55" title="Python" alt="Python"/>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="55" title="AI/ML" alt="AI"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="55" title="GitHub" alt="GitHub"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55" title="Cloud" alt="Cloud"/>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="55" title="Docker" alt="Docker"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="55" title="Node" alt="Node"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="55" title="JS" alt="JS"/>
+  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="55" title="TypeScript" alt="TypeScript"/>
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55" title="React" alt="React"/>
 </p>
 
 <p align="center"><b>🔬 Machine Learning & Generative AI</b></p>
